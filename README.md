@@ -22,7 +22,7 @@ Work through short lessons, practice on your own class materials, and track your
 ---
 
 > [!IMPORTANT]
-> This is a study aid, not legal advice and not a source of legal doctrine. Examples in the app use fictional facts and fictional rules. Bring your own assigned materials, verify legal rules against your course sources, and follow your school’s and professor’s policies on AI and other study tools—especially for graded work.
+> This is a study aid, not legal advice and not a source of legal doctrine. Examples in the app use fictional facts and fictional rules. Bring your own assigned materials, verify legal rules against your course sources, and follow your school’s and professor’s policies on AI and other study tools, especially for graded work.
 
 ## What’s included
 
@@ -40,13 +40,13 @@ The curriculum covers **7 skills × 3 levels × 3 lessons = 63 lessons**.
 
 ### Also included
 
-- **Daily practice** — a daily lesson and a rotating practice drill
-- **Timed writing workspace** — adjustable session lengths and word goals
-- **Work log** — answers, notes, class names, and self-checks
-- **The Seven Moves** — an interactive analysis module built around a fictional Harbor Point Market problem
-- **Themes** — light, dark, and system
-- **Backup** — JSON export and import for saving or moving your study data
-- **Installable** — progressive web app support on compatible browsers
+- **Daily practice:** A daily lesson and a rotating practice drill
+- **Timed writing workspace:** Adjustable session lengths and word goals
+- **Work log:** Answers, notes, class names, and self-checks
+- **The Seven Moves:** An interactive analysis module built around a fictional Harbor Point Market problem
+- **Themes:** Light, dark, and system
+- **Backup:** JSON export and import for saving or moving your study data
+- **Installable:** Progressive web app support on compatible browsers
 
 ## Run locally
 
