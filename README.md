@@ -4,7 +4,7 @@
 
 # 1L Legal Skills
 
-**Free, browser-based practice for the skills behind law school.**
+**Browser-based practice for the skills behind law school.**
 
 Work through short lessons, practice on your own class materials, and track your progress on your device.
 
