@@ -1,0 +1,61 @@
+# 1L Legal Skills
+
+A free, browser-based practice app for building the skills behind law school reading, analysis, writing, argument, and research. Work through short lessons, practice on your own class materials, and track your progress on your device.
+
+**[Open the live demo](https://delusionalpessimist.github.io/LegalSkillsStudyTool/)**
+
+> This is a study aid, not legal advice and not a source of legal doctrine. Examples in the app use fictional facts and fictional rules. Bring your own assigned materials, verify legal rules against your course sources, and follow your school’s and professor’s policies on AI and other study tools—especially for graded work.
+
+## What’s included
+
+The curriculum covers seven skills, with three levels and three lessons at each level (**63 lessons total**):
+
+- **Reading** — opinions, holdings, statutes, and competing interpretations
+- **Analysis** — issue framing, rule application, missing facts, and exam time management
+- **Logic** — rule structure, reasoning, synthesis, and calibrated conclusions
+- **Writing** — organization, precision, objective memos, and revision
+- **Argument** — analogy, distinction, counterarguments, and adverse authority
+- **Oral** — cold calls, changed-fact questions, and short arguments
+- **Research** — research planning, primary sources, citators, and stopping points
+
+Also included:
+
+- A daily lesson and rotating practice drill
+- A timed writing workspace with adjustable session lengths and word goals
+- A work log for answers, notes, class names, and self-checks
+- **The Seven Moves**, an interactive analysis module using a fictional Harbor Point Market problem
+- Light, dark, and system themes
+- JSON export and import for backing up or moving your study data
+- Installable progressive web app support on compatible browsers
+
+## Run locally
+
+No package manager, build step, API key, or backend is required. Clone the repository and serve the files from its root with any static web server. For example, with Python installed:
+
+```bash
+git clone https://github.com/DelusionalPessimist/LegalSkillsStudyTool.git
+cd LegalSkillsStudyTool
+python3 -m http.server 8000
+```
+
+Then open <http://localhost:8000> in your browser. You can also use the live demo linked above.
+
+## Privacy and saved data
+
+The app has no account or backend. Lessons, drafts, notes, practice entries, and progress are saved in the browser’s local storage on your device. The app does not send your class materials or writing to an AI service.
+
+- Your saved data does not automatically sync between browsers or devices.
+- Clearing the browser’s site data can remove your saved work. Use **Settings → Export backup** to save a JSON copy.
+- Importing a backup replaces the data currently saved by the app, so export first if you want to keep both copies.
+
+## What this app does not do
+
+The **Gap Bridge** screen describes a possible future feedback feature; it is a mockup and is not connected in this build. The app does not grade answers, provide legal advice, verify citations, or teach jurisdiction-specific doctrine. It is a practice framework to use with your own course materials.
+
+## Built with
+
+Vanilla HTML, CSS, and JavaScript. The app is a static site and uses browser local storage for persistence.
+
+## License
+
+No license is specified in this repository. Unless a license is added, reuse and redistribution are not granted by this README.
